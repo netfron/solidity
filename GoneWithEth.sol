@@ -1,6 +1,6 @@
 pragma solidity ^0.5.11;
 
-import "./Reentrancy.sol";
+import "./Reentrance.sol";
 
 contract GoneWithEth {
 
