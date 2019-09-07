@@ -1,6 +1,6 @@
 pragma solidity ^0.5.11;
 
-contract Reetrance {
+contract Reentrancy {
 
     mapping(address => uint) public balances;
 
